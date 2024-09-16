@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=21&pause=1009&color=6DFFF5&vCenter=true&width=433&lines=Hello%2C+I'm+David!;Always+trying+to+get+better!)](https://git.io/typing-svg)
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo2eTkxaWY0N29qazNwMmk0YnNjcHJyc3k1ZHhtNHcweTVjNm12ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiJPvfcnBPBJKMh2C7/giphy.webp" alt="Pixel Art" align="right" width="200">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo2eTkxaWY0N29qazNwMmk0YnNjcHJyc3k1ZHhtNHcweTVjNm12ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OiJPvfcnBPBJKMh2C7/giphy.webp](https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
