@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CF0F7&background=FFFFFF00&width=435&lines=Hello+everyone+I'm+David!;Always+trying+to+get+better!)](https://git.io/typing-svg)
 
-<img src="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415" alt="Pixel Art" align="right" width="200">
+<img src="[https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
