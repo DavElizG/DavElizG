@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8CF0F7&background=FFFFFF00&width=435&lines=Hello+everyone+I'm+David!;Always+trying+to+get+better!)](https://git.io/typing-svg)
 
-<img src="[dia.tumblr.com%252fb9a552bef486726fb1206750e50pqf1sfVW%252bfm5l3Uy6c6e7bjpVOZ7ghk%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=500&expw=500&q=gif+pixel+art&simid=608017149213241127&FORM=IRPRST&ck=05C6558AF564C2ECE59DF8A2464BA625&selectedIndex=12&itb=0)](https://images.app.goo.gl/xda9Gov7tjYaWCuY8)" alt="Pixel Art" align="right" width="200">
+<img src="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
