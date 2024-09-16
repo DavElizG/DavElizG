@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=21&pause=1009&color=6DFFF5&vCenter=true&width=433&lines=Hello%2C+I'm+David!;Always+trying+to+get+better!)](https://git.io/typing-svg)
-<img src="https://i.redd.it/183nj4ze28971.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_256.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
