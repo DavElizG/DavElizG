@@ -18,7 +18,7 @@
 ### GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/DavElizG](https://github-readme-stats.vercel.app/api?username=DavElizG&theme=merko&hide_border=false&include_all_commits=false&count_private=false">
+  <a href="https://github-readme-stats.vercel.app/api?username=DavElizG&theme=merko&hide_border=false&include_all_commits=false&count_private=false">
 
   
   </a>
