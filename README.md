@@ -26,11 +26,13 @@
       <br/>
       <strong><a href="https://github.com/DavElizG/LevelUp">LevelUp Gym</a></strong>
       <br/>
-      <sub>AI fitness app · personalized routines & diet plans</sub>
+      <sub>AI fitness app · personalized routines & diet plans · AI microservice</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
     </td>
     <td align="center" width="50%">
       <br/>
@@ -47,10 +49,11 @@
       <br/>
       <strong><a href="https://github.com/DavElizG/forest-inventory-system">Forest Inventory System</a></strong>
       <br/>
-      <sub>Offline-first mobile app · field tree capture · KMZ & Excel reports</sub>
+      <sub>Offline-first mobile app · field tree capture · KMZ & Excel reports · monorepo</sub>
       <br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
     </td>
     <td align="center" width="50%">
       <br/>
