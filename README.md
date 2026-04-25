@@ -23,9 +23,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/LevelUp">
-        <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078d1c1c5a6e77e3e3a5d84/raw/88f20c9d749d756be63f22450f4b0b6f33d9939/programming.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="LevelUp"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/LevelUp">LevelUp Gym</a></strong>
       <br/>
@@ -36,9 +33,6 @@
       <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/nan-estetik">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="nan-estetik"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/nan-estetik">Nan Estétik</a></strong>
       <br/>
@@ -50,9 +44,6 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/forest-inventory-system">
-        <img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="forest"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/forest-inventory-system">Forest Inventory System</a></strong>
       <br/>
@@ -62,9 +53,6 @@
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/biodiversity-protected-areas-mongodb">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="biodiversity"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/biodiversity-protected-areas-mongodb">Biodiversity Protected Areas</a></strong>
       <br/>
@@ -76,9 +64,6 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/VerdulleriaCR">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="VerdulleriaCR"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/VerdulleriaCR">VerdulleriaCR</a></strong>
       <br/>
@@ -87,9 +72,6 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/DavElizG/Image-Classifier-AI">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="AI"/>
-      </a>
       <br/>
       <strong><a href="https://github.com/DavElizG/Image-Classifier-AI">Image Classifier AI</a></strong>
       <br/>
