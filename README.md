@@ -18,16 +18,87 @@
 
 ---
 
-### 🚀 Featured Projects
+### Projects I've built
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏋️ LevelUp Gym](https://github.com/DavElizG/LevelUp) | AI-powered fitness app with personalized workout routines and diet plans | TypeScript · React · Vite · Capacitor |
-| [🌿 Forest Inventory System](https://github.com/DavElizG/forest-inventory-system) | Offline-first mobile app for field tree/parcel data capture, sync, and KMZ/Excel report generation | Dart · Flutter |
-| [💆 Nan Estétik](https://github.com/DavElizG/nan-estetik) | Professional aesthetic clinic website with patient management, GSAP animations & smooth scroll | TypeScript · Next.js · GSAP · Lenis |
-| [🛒 VerdulleriaCR](https://github.com/DavElizG/VerdulleriaCR) | Full billing & inventory management system for a grocery store | Java · NetBeans · MS Access |
-| [🌎 Biodiversity Protected Areas](https://github.com/DavElizG/biodiversity-protected-areas-mongodb) | REST API for managing biodiversity data in protected areas using NoSQL | C# · .NET · MongoDB |
-| [🤖 Image Classifier AI](https://github.com/DavElizG/Image-Classifier-AI) | Image classification project using artificial intelligence | Python |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/LevelUp">
+        <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078d1c1c5a6e77e3e3a5d84/raw/88f20c9d749d756be63f22450f4b0b6f33d9939/programming.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="LevelUp"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/LevelUp">LevelUp Gym</a></strong>
+      <br/>
+      <sub>AI fitness app · personalized routines & diet plans</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/nan-estetik">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="nan-estetik"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/nan-estetik">Nan Estétik</a></strong>
+      <br/>
+      <sub>Aesthetic clinic site · GSAP animations · smooth scroll</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/forest-inventory-system">
+        <img src="https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="forest"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/forest-inventory-system">Forest Inventory System</a></strong>
+      <br/>
+      <sub>Offline-first mobile app · field tree capture · KMZ & Excel reports</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/biodiversity-protected-areas-mongodb">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="biodiversity"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/biodiversity-protected-areas-mongodb">Biodiversity Protected Areas</a></strong>
+      <br/>
+      <sub>REST API · biodiversity data management · NoSQL</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/VerdulleriaCR">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="VerdulleriaCR"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/VerdulleriaCR">VerdulleriaCR</a></strong>
+      <br/>
+      <sub>Billing & inventory system for a grocery store</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DavElizG/Image-Classifier-AI">
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" height="140px" style="object-fit:cover; border-radius:8px;" alt="AI"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/DavElizG/Image-Classifier-AI">Image Classifier AI</a></strong>
+      <br/>
+      <sub>Image classification using artificial intelligence</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
